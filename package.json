@@ -1,5 +1,5 @@
-{
-  "name": "vehiclefleettracker2023frontend",
+﻿{
+  "name": "fleet-telemetry-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -36,3 +36,4 @@
     "babel-plugin-styled-components": "^2.0.7"
   }
 }
+
